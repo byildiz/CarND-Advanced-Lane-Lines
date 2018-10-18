@@ -193,9 +193,9 @@ In `detect_line()` function, a new line detection pipeline was defined. The func
 
 The following links are the resulted new videos for each of test videos:
 
-- [Result for `project_video.mp4`](video1)
-- [Result for `challenge_video.mp4`](video2)
-- [Result for `harder_challenge_video.mp4`](video3)
+- [Result for `project_video.mp4`](./project_video_output.mp4)
+- [Result for `challenge_video.mp4`](./challange_video_output.mp4)
+- [Result for `harder_challenge_video.mp4`](./harder_challenge_video_output.mp4)
 
 ---
 
